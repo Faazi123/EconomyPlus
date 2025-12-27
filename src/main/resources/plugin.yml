@@ -1,0 +1,15 @@
+name: EconomyPlus
+version: 1.0
+main: pl.faazi1.ekonomia.EconomyPlugin
+api-version: 1.21
+commands:
+  konto:
+    description: pokazuje saldo
+  pay:
+    description: przelew pieniędzy
+  economy:
+    description: komenda admina
+    permission: economyplus.admin
+permissions:
+  economyplus.admin:
+    default: op

@@ -1,0 +1,7 @@
+pl\faazi1\ekonomia\commands\EconomyCommand.class
+pl\faazi1\ekonomia\EconomyPlaceholderHook.class
+pl\faazi1\ekonomia\PlayerCommandExecutor.class
+pl\faazi1\ekonomia\ConfigManager.class
+pl\faazi1\ekonomia\EconomyAPI.class
+pl\faazi1\ekonomia\EconomyPlugin.class
+pl\faazi1\ekonomia\EconomyManager.class
